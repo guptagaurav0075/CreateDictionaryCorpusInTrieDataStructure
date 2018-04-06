@@ -1,5 +1,6 @@
 import json;
 import os;
+from ReadFromDictionary import *
 
 PATH = os.getcwd();
 FILE_NAME = "dictionary.txt"
@@ -36,9 +37,16 @@ for i in range(len(content)):
     # print content[i], "   ->",currentWord
     addWord(word=currentWord, index=0, subDict=dictionary)
 
-print dict
+# print dictionary
+setDictionary(dictionary)
+str = ""
+while True:
+    val = "Enter a character -->  "+str
+    str += raw_input(val)
+    print str
+    getWordPreProcess(str)
 
-qu# print dict
+
 # updated_JSON_Dictionary = json.dumps(dict)
 # file = open("Dictionary_JSON_DUMP.json","w+");
 # json.dump(updated_JSON_Dictionary, file)
