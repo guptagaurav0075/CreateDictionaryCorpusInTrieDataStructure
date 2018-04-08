@@ -3,8 +3,6 @@ a-horizon
 a-ok
 aardvark
 aardwolf
-ab
-aba
 abaca
 abacist
 aback
@@ -49,7 +47,6 @@ abbreviate
 abbreviated
 abbreviation
 abbreviature
-abc
 abcoulomb
 abdal
 abderite
@@ -5581,16 +5578,8 @@ aztreonam
 azure
 azygous
 azymia
-bte
-b
-b-girl
-b-horizon
-b-meson
-ba
 baa
 baa-lamb
-baal
-baas
 baba
 babar
 babassu
@@ -5787,7 +5776,6 @@ bahamian
 bahrain
 bahraini
 baht
-bai
 bail
 bailable
 bailee
@@ -6211,7 +6199,6 @@ baryon
 baryta
 barytic
 barytone
-bas
 basal
 basalt
 basaltic
@@ -6308,7 +6295,6 @@ bastion
 bastioned
 bastnasite
 bat
-bata
 bataan
 bataille
 batch
@@ -6407,7 +6393,6 @@ bawl
 bawling
 bawn
 bay
-baya
 bayadere
 bayard
 bayberry
@@ -6422,9 +6407,6 @@ bazaar
 bazein
 bazein/gr
 bazooka
-bb
-bc
-bd
 bdellium
 be
 beach
@@ -6525,7 +6507,6 @@ beauty
 beaver
 bebas
 bebop
-bec
 becalm
 becalmed
 became
@@ -7053,16 +7034,12 @@ beyond
 bezant
 bezel
 bezonian
-bf
-bg
-bh
 bhadon
 bhaga
 bhang
 bhisti
 bhutan
 bhutanese
-bi
 bialy
 biannually
 bias
@@ -7144,7 +7121,6 @@ bidentate
 bidet
 bidirectional
 biduous
-bien
 biennial
 biennially
 bienseance
@@ -7166,8 +7142,6 @@ bifurcated
 bifurcation
 bifurcous
 big
-big(a)
-big(p)
 big-bellied
 big-boned
 big-chested
@@ -7275,7 +7249,6 @@ bimonthly
 bimorphemic
 bimotored
 bin
-bina
 binary
 binate
 binaural
@@ -7485,9 +7458,6 @@ biweekly
 bizarre
 bizarrerie
 bizonal
-bj
-bk
-bl
 blab
 blabber
 blabbermouthed
@@ -7825,7 +7795,6 @@ blubber
 blucher
 bludgeon
 blue
-blue(a)
 blue-black
 blue-collar
 blue-eyed
@@ -7884,7 +7853,6 @@ blustering
 blustering(a)
 blustery
 blut
-bo
 boa
 boann
 boar
@@ -8074,7 +8042,6 @@ bondswoman
 bonduc
 bondwoman
 bone
-bone(a)
 bone-covered
 bone-dry(a)
 bone-idle
@@ -8451,7 +8418,6 @@ boykinia
 boyne
 boysenberry
 bozo
-bp
 bra
 brabble
 brabbler

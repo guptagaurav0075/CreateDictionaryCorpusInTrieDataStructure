@@ -27,10 +27,11 @@ def getWordPreProcess(word):
 
 def getWord(levels, word, dict):
     global list
-    if(dict["isLeaf"] and levels>0):
-        list.append(word)
+    if("isLeaf" in dict.keys()):
+        if(dict["isLeaf"] and levels>0):
+            list.append(word)
         # print word
-    if(levels>2):
+    if(levels>4):
         return;
 
     for i in dict.keys():
