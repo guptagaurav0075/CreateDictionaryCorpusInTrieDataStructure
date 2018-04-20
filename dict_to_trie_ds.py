@@ -2,7 +2,7 @@ import os;
 from ReadFromDictionary import *
 
 PATH = os.getcwd();
-FILE_NAME = "dictionary.txt"
+FILE_NAME = "filtered_dictionary.txt"
 # PATH += "/"+FILE_NAME
 print PATH
 
