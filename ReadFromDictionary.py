@@ -23,6 +23,7 @@ def getWordPreProcess(word):
         print "None"
         return;
     getWord(levels=0, word=copySubWord, dict=subDict)
+    checkNRemoveWordFromList()
     print list
 
 def getWord(levels, word, dict):

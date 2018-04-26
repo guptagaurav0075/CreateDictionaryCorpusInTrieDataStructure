@@ -40,7 +40,7 @@ for i in range(len(content)):
 setDictionary(dictionary)
 str = ""
 while True:
-    val = "Enter a character -->  "+str
+    val = "Enter partial word -->  "+str
     str += raw_input(val)
     print str
     getWordPreProcess(str)
